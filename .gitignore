@@ -1,0 +1,24 @@
+# Build directories
+build/
+Debug/
+Release/
+x64/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Compiled files
+*.exe
+*.obj
+*.o
+*.dll
+*.so
+*.dylib
